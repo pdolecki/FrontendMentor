@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [@pdolecki-netlify-2](link)
+- Live Site URL: [@pdolecki-netlify-2](https://pdolecki-qr-code-component-main.netlify.app/)
 
 ### Built with
 
