@@ -30,11 +30,11 @@ Users should be able to:
 ### Screenshot
 
 ![](./Project.png)
-gi
+![](./Project2.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [@pdolecki-netlify-1](https://pdolecki-interactive-rating-component.netlify.app/)
 
 ### Built with
 
