@@ -1,0 +1,26 @@
+:root {
+  /* COLORS */
+  --color-white: hsl(0, 0%, 100%);
+  --color-grey-light: hsl(212, 45%, 89%);
+  --color-grey: hsl(220, 15%, 55%);
+  --color-blue: hsl(218, 44%, 22%);
+
+  /* TYPOGRAPHY */
+  --font-family: "Outfit", sans-serif;
+
+  --font-size-normal: 1.5rem;
+  --font-size-large: 1.8rem;
+
+  --font-weight-normal: 400;
+  --font-weight-bold: 800;
+
+  --letter-spacing-normal: 0.5px;
+
+  --line-height-large: 2.5rem;
+
+  /* LAYOUT */
+  --spacer-normal: 1rem;
+  --spacer-big: 1.5rem;
+  --spacer-large: 2rem;
+  --spacer-huge: 3rem;
+}
