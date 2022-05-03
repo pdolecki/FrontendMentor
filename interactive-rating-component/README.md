@@ -15,8 +15,10 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 Important sidenotes:
 
+- Tested on Chrome browser
 - Build based on jpg graphic(not figma sketch)
 - Responsive on given layouts(375px/1440px) without media queries
+- Main focus on fun(not pixel perfect layout/shade perfect color)
 
 ### The challenge
 
