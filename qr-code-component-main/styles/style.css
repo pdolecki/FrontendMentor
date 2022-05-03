@@ -17,15 +17,12 @@
   width: 100%;
   border-radius: 10px;
   margin-bottom: var(--spacer-huge);
+  box-shadow: 4px 4px 21px -20px rgba(20, 26, 85, 1);
 }
 .card-title {
   color: var(--color-blue);
   font-size: var(--font-size-large);
   font-weight: var(--font-weight-bold);
-  letter-spacing: var(--letter-spacing-normal);
   line-height: var(--line-height-large);
   margin-bottom: var(--spacer-large);
-}
-.card-description {
-  letter-spacing: var(--letter-spacing-normal);
 }
