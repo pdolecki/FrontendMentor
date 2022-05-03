@@ -16,4 +16,6 @@ body {
   font-size: var(--font-size-normal);
   font-weight: var(--font-weight-normal);
   background-color: var(--color-grey-light);
+  display: flex;
+  justify-content: center;
 }
