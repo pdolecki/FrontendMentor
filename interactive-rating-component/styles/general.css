@@ -1,0 +1,42 @@
+@import url(variables.css);
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+  height: 100%;
+}
+body {
+  min-height: 100%;
+  color: var(--color-light-grey);
+  font-family: var(--font-family);
+  font-size: var(--font-size-normal);
+  font-weight: var(--font-weight-normal);
+  background-color: var(--color-dark-blue-2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card {
+  background: linear-gradient(var(--color-gradient-2), var(--color-gradient-1));
+  width: 50rem;
+  height: 48rem;
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.card__main {
+  padding: 4rem;
+  row-gap: 2rem;
+}
+.card__thanks {
+  text-align: center;
+  padding: 5rem;
+  row-gap: 3rem;
+}
+.invisible {
+  display: none;
+}
