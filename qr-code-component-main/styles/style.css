@@ -8,7 +8,7 @@
   top: 50%;
   left: 50%;
   border-radius: 20px;
-  padding: var(--spacer-large);
+  padding: var(--spacer-big);
   transform: translate(-50%, -50%);
   background-color: var(--color-white);
   box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 0.18);
@@ -25,4 +25,8 @@
   font-weight: var(--font-weight-bold);
   line-height: var(--line-height-large);
   margin-bottom: var(--spacer-large);
+  padding: 0 var(--spacer-big);
+}
+.card-description {
+  padding: 0 var(--spacer-large);
 }
