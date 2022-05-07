@@ -9,7 +9,7 @@
 - [QR-code](https://github.com/pdolecki/FrontendMentor/tree/main/qr-code-component-main
 ) - QR code component using HTML/CSS
 [live-version](https://pdolecki-qr-code-component-main.netlify.app/)
-- [QR-code](https://github.com/pdolecki/FrontendMentor/tree/main/nft-preview-card-component
+- [NFT-preview](https://github.com/pdolecki/FrontendMentor/tree/main/nft-preview-card-component
 ) - NFT preview card component using HTML/CSS
 [live-version](https://pdolecki-nft-preview-card-component.netlify.app/)
 
