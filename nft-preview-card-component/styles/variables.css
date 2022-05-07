@@ -1,0 +1,21 @@
+:root {
+  /* COLORS */
+  --color-blue: hsl(215, 51%, 70%);
+  --color-cyan: hsl(178, 100%, 50%);
+  --color-white: hsl(0, 0%, 100%);
+  --color-blue-1: hsl(217, 54%, 11%);
+  --color-blue-2: hsl(216, 50%, 16%);
+  --color-blue-3: hsl(215, 32%, 27%);
+
+  /* TYPOGRAPHY */
+  --font-family: "Outfit", sans-serif;
+
+  --font-size-normal: 1.5rem;
+  --font-size-large: 2rem;
+
+  --font-weight-small: 300;
+  --font-weight-normal: 400;
+  --font-weight-large: 600;
+
+  /* LAYOUT */
+}

@@ -1,0 +1,27 @@
+@import url(variables.css);
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+  height: 100%;
+  overflow: hidden;
+}
+body {
+  color: var(--color-blue);
+  font-family: var(--font-family);
+  font-size: var(--font-size-normal);
+  font-weight: var(--font-weight-small);
+  background-color: var(--color-blue-1);
+  display: flex;
+  justify-content: center;
+}
+.card {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
